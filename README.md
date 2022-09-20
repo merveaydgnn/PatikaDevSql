@@ -1,0 +1,2 @@
+# PatikaDevSql
+SQL Projeleri
